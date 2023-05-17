@@ -1,0 +1,29 @@
+_repo: The-eagle-s-masque_70437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tit, Tom, active approximately 1808
+    gutenberg_agent_id: '55740'
+    url: http://www.gutenberg.org/2009/agents/55740
+description: ''
+gutenberg_issued: '2023-04-01'
+identifiers:
+  gutenberg: '70437'
+language: en
+pgterms:marc904: https://archive.org/details/eaglesmasque00tittiala
+pgterms:marc905: 20071128053035tit
+pgterms:marc906: '1808'
+pgterms:marc907: GB
+production_note: David Wilson (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ. Mawman, $c1808.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Birds -- Juvenile poetry'
+- !lcc 'PZ'
+- GITenberg
+title: The eagle's masque
+url: http://www.gutenberg.org/ebooks/70437
