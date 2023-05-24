@@ -1,11 +1,16 @@
 _repo: The-eagle-s-masque_70437
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70437-h/images/cover.jpg
 creator:
   author:
     agent_name: Tit, Tom, active approximately 1808
     gutenberg_agent_id: '55740'
     url: http://www.gutenberg.org/2009/agents/55740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70437#The-eagle-s-masque
 gutenberg_issued: '2023-04-01'
 identifiers:
   gutenberg: '70437'
